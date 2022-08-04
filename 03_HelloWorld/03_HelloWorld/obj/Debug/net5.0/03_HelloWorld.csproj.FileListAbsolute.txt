@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\03_HelloWorld.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\03_HelloWorld.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\03_HelloWorld.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\03_HelloWorld.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\03_HelloWorld.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\ref\03_HelloWorld.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\bin\Debug\net5.0\03_HelloWorld.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\ref\03_HelloWorld.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\03_HelloWorld\03_HelloWorld\obj\Debug\net5.0\03_HelloWorld.genruntimeconfig.cache

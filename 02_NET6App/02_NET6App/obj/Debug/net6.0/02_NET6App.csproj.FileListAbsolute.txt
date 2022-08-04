@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\bin\Debug\net6.0\02_NET6App.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\bin\Debug\net6.0\02_NET6App.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\bin\Debug\net6.0\02_NET6App.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\bin\Debug\net6.0\02_NET6App.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\bin\Debug\net6.0\02_NET6App.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\refint\02_NET6App.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\02_NET6App.genruntimeconfig.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_NET6App\02_NET6App\obj\Debug\net6.0\ref\02_NET6App.dll

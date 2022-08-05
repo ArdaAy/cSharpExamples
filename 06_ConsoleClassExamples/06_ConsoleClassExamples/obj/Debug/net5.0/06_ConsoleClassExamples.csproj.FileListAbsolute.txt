@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\06_ConsoleClassExamples.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\06_ConsoleClassExamples.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\06_ConsoleClassExamples.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\06_ConsoleClassExamples.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\06_ConsoleClassExamples.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\ref\06_ConsoleClassExamples.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\bin\Debug\net5.0\06_ConsoleClassExamples.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\ref\06_ConsoleClassExamples.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\06_ConsoleClassExamples\06_ConsoleClassExamples\obj\Debug\net5.0\06_ConsoleClassExamples.genruntimeconfig.cache

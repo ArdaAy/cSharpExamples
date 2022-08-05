@@ -47,6 +47,7 @@ namespace _04_PrimitiveDataTypes
             
             char c = 'A';
 
+            // string is not a primitive data type, it is a class
             string name = "John Doe";
 
             //Use a string for a path, username, birthdate...

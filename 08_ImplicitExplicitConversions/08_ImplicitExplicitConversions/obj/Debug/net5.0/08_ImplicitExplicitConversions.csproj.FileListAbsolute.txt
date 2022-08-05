@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\08_ImplicitExplicitConversions.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\08_ImplicitExplicitConversions.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\08_ImplicitExplicitConversions.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\08_ImplicitExplicitConversions.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\08_ImplicitExplicitConversions.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\ref\08_ImplicitExplicitConversions.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\bin\Debug\net5.0\08_ImplicitExplicitConversions.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\ref\08_ImplicitExplicitConversions.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\08_ImplicitExplicitConversions\08_ImplicitExplicitConversions\obj\Debug\net5.0\08_ImplicitExplicitConversions.genruntimeconfig.cache

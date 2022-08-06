@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\09_StringManipulation.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\09_StringManipulation.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\09_StringManipulation.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\09_StringManipulation.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\09_StringManipulation.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\ref\09_StringManipulation.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\bin\Debug\net5.0\09_StringManipulation.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\ref\09_StringManipulation.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\09_StringManipulation\09_StringManipulation\obj\Debug\net5.0\09_StringManipulation.genruntimeconfig.cache

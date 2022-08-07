@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\10_ConsoleChallange.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\10_ConsoleChallange.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\10_ConsoleChallange.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\10_ConsoleChallange.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\10_ConsoleChallange.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\ref\10_ConsoleChallange.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\bin\Debug\net5.0\10_ConsoleChallange.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\ref\10_ConsoleChallange.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\10_ConsoleChallange\10_ConsoleChallange\obj\Debug\net5.0\10_ConsoleChallange.genruntimeconfig.cache

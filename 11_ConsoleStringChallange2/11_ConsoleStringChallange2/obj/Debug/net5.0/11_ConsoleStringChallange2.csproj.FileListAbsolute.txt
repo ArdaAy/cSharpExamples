@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\11_ConsoleStringChallange2.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\11_ConsoleStringChallange2.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\11_ConsoleStringChallange2.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\11_ConsoleStringChallange2.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\11_ConsoleStringChallange2.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\ref\11_ConsoleStringChallange2.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\bin\Debug\net5.0\11_ConsoleStringChallange2.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\ref\11_ConsoleStringChallange2.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\11_ConsoleStringChallange2\11_ConsoleStringChallange2\obj\Debug\net5.0\11_ConsoleStringChallange2.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Consulta-TA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AAY\\.nuget\\packages"
+    ]
+  }
+}

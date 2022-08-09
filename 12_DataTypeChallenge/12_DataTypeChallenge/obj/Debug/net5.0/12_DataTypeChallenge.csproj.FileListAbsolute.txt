@@ -1,0 +1,16 @@
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\12_DataTypeChallenge.exe
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\12_DataTypeChallenge.deps.json
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\12_DataTypeChallenge.runtimeconfig.json
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\12_DataTypeChallenge.runtimeconfig.dev.json
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\12_DataTypeChallenge.dll
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\ref\12_DataTypeChallenge.dll
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\bin\Debug\net5.0\12_DataTypeChallenge.pdb
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.csprojAssemblyReference.cache
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.AssemblyInfoInputs.cache
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.AssemblyInfo.cs
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.dll
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\ref\12_DataTypeChallenge.dll
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.pdb
+C:\Users\AAY\Documents\GitHub\cSharpExamples\12_DataTypeChallenge\12_DataTypeChallenge\obj\Debug\net5.0\12_DataTypeChallenge.genruntimeconfig.cache

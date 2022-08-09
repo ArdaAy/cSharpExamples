@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\12_DataTypeChallenge\\12_DataTypeChallenge\\12_DataTypeChallenge.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\12_DataTypeChallenge\\12_DataTypeChallenge\\12_DataTypeChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\12_DataTypeChallenge\\12_DataTypeChallenge\\12_DataTypeChallenge.csproj",
+        "projectName": "12_DataTypeChallenge",
+        "projectPath": "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\12_DataTypeChallenge\\12_DataTypeChallenge\\12_DataTypeChallenge.csproj",
+        "packagesPath": "C:\\Users\\Consulta-TA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\12_DataTypeChallenge\\12_DataTypeChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consulta-TA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.216\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\20_IfChallenge.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\20_IfChallenge.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\20_IfChallenge.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\20_IfChallenge.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\20_IfChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\ref\20_IfChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\bin\Debug\net5.0\20_IfChallenge.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\ref\20_IfChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\20_IfChallenge\20_IfChallenge\obj\Debug\net5.0\20_IfChallenge.genruntimeconfig.cache

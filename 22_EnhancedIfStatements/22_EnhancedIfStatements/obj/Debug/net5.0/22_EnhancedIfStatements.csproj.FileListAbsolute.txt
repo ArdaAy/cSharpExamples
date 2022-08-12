@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\22_EnhancedIfStatements.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\22_EnhancedIfStatements.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\22_EnhancedIfStatements.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\22_EnhancedIfStatements.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\22_EnhancedIfStatements.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\ref\22_EnhancedIfStatements.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\bin\Debug\net5.0\22_EnhancedIfStatements.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\ref\22_EnhancedIfStatements.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\22_EnhancedIfStatements\22_EnhancedIfStatements\obj\Debug\net5.0\22_EnhancedIfStatements.genruntimeconfig.cache

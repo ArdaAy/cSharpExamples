@@ -8,19 +8,26 @@ namespace _18_IfDecisions
         {
             Console.WriteLine("What's the temperature like?");
             string temperature = Console.ReadLine();
-            int numTemp = int.Parse(temperature);
+            
+            int numTemp, number;
+            
+            if(int.TryParse(temperature, out number))
+            {
+                numTemp = number;
+            }
+            else
+            {
+                numTemp = 0;
+                Console.WriteLine("Value entered, was no number, 0 set as temperature.");
+            }
 
             if (numTemp < 20)
             {
                 Console.WriteLine("Take the coat");
-            }
-
-            if (numTemp == 20)
+            }else if (numTemp == 20)
             {
                 Console.WriteLine("Pants and Pull Over should be fine");
-            }
-
-            if (numTemp > 20)
+            }else if (numTemp > 20)
             {
                 Console.WriteLine("Shorts are enough today");
             }

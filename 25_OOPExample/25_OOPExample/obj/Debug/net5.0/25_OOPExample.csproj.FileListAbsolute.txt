@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\25_OOPExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\25_OOPExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\25_OOPExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\25_OOPExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\25_OOPExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\ref\25_OOPExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\bin\Debug\net5.0\25_OOPExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\ref\25_OOPExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\25_OOPExample\25_OOPExample\obj\Debug\net5.0\25_OOPExample.genruntimeconfig.cache

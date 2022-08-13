@@ -8,6 +8,10 @@ namespace _26_OOPExample2
 {
     class Human
     {
+        // Access Modifiers
+        // https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/access-modifiers
+        // https://code-maze.com/csharp-access-modifiers/
+
         // member variable
         private string firstName;
         private string lastName;

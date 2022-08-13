@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\23_Loops.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\23_Loops.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\23_Loops.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\23_Loops.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\23_Loops.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\ref\23_Loops.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\bin\Debug\net5.0\23_Loops.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\ref\23_Loops.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\23_Loops\23_Loops\obj\Debug\net5.0\23_Loops.genruntimeconfig.cache

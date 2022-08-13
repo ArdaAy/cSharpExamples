@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\24_LoopChallenge.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\24_LoopChallenge.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\24_LoopChallenge.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\24_LoopChallenge.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\24_LoopChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\ref\24_LoopChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\bin\Debug\net5.0\24_LoopChallenge.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\ref\24_LoopChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\24_LoopChallenge\24_LoopChallenge\obj\Debug\net5.0\24_LoopChallenge.genruntimeconfig.cache

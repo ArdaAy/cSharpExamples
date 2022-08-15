@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj": {}
+    "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj": {
+    "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj",
+        "projectUniqueName": "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj",
         "projectName": "26_OOPExample2",
-        "projectPath": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj",
-        "packagesPath": "C:\\Users\\ardaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\obj\\",
+        "projectPath": "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\26_OOPExample2.csproj",
+        "packagesPath": "C:\\Users\\AAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AAY\\Documents\\GitHub\\cSharpExamples\\26_OOPExample2\\26_OOPExample2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ardaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.216\\RuntimeIdentifierGraph.json"
         }
       }
     }

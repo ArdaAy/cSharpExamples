@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace _26_OOPExample2
 {
@@ -17,6 +14,39 @@ namespace _26_OOPExample2
         private string lastName;
         private string eyeColor;
         private int age;
+
+        // type prop and click tab button
+        public int MyProperty { get; set; }
+
+        // type propfull and click tab button
+        private int myVar;
+
+        public int MyProperty2
+        {
+            get { return myVar; }
+            set { myVar = value; }
+        }
+
+
+        public int Age
+        {
+            get
+            {
+                return age;
+            }
+            set
+            {
+                if(value < 0)
+                {
+                    age = -value;
+                }
+                else
+                {
+                    age = value;
+                }
+                
+            }
+        }
 
         // default constructor
         public Human()
@@ -46,7 +76,8 @@ namespace _26_OOPExample2
         {
             this.firstName = firstName;
             this.lastName = lastName;
-            this.age = age;
+            //this.age = age;
+            Age = age;
         }
 
         // parameterized constructor
@@ -79,5 +110,11 @@ namespace _26_OOPExample2
             }
 
         }
+        ~Human()
+        {
+            Debug.Write("The object is destructed");
+        }
     }
+
+    
 }

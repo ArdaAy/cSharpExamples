@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\28_ForeachSwitchChallenge.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\28_ForeachSwitchChallenge.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\28_ForeachSwitchChallenge.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\28_ForeachSwitchChallenge.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\28_ForeachSwitchChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\ref\28_ForeachSwitchChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\bin\Debug\net5.0\28_ForeachSwitchChallenge.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\ref\28_ForeachSwitchChallenge.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\28_ForeachSwitchChallenge\28_ForeachSwitchChallenge\obj\Debug\net5.0\28_ForeachSwitchChallenge.genruntimeconfig.cache

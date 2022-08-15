@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\27_Arrays.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\27_Arrays.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\27_Arrays.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\27_Arrays.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\27_Arrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\ref\27_Arrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\bin\Debug\net5.0\27_Arrays.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\ref\27_Arrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\27_Arrays\27_Arrays\obj\Debug\net5.0\27_Arrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\31_TicTacToeGame.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\31_TicTacToeGame.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\31_TicTacToeGame.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\31_TicTacToeGame.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\31_TicTacToeGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\ref\31_TicTacToeGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\bin\Debug\net5.0\31_TicTacToeGame.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\ref\31_TicTacToeGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\31_TicTacToeGame\31_TicTacToeGame\obj\Debug\net5.0\31_TicTacToeGame.genruntimeconfig.cache

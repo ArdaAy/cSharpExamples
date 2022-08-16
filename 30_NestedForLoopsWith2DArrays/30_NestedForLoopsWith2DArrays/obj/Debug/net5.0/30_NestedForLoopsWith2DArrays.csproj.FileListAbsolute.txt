@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\30_NestedForLoopsWith2DArrays.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\30_NestedForLoopsWith2DArrays.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\30_NestedForLoopsWith2DArrays.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\30_NestedForLoopsWith2DArrays.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\30_NestedForLoopsWith2DArrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\ref\30_NestedForLoopsWith2DArrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\bin\Debug\net5.0\30_NestedForLoopsWith2DArrays.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\ref\30_NestedForLoopsWith2DArrays.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\30_NestedForLoopsWith2DArrays\30_NestedForLoopsWith2DArrays\obj\Debug\net5.0\30_NestedForLoopsWith2DArrays.genruntimeconfig.cache

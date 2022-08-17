@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\35_ParamsKeyword.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\35_ParamsKeyword.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\35_ParamsKeyword.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\35_ParamsKeyword.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\35_ParamsKeyword.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\ref\35_ParamsKeyword.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\bin\Debug\net5.0\35_ParamsKeyword.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\ref\35_ParamsKeyword.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\35_ParamsKeyword\35_ParamsKeyword\obj\Debug\net5.0\35_ParamsKeyword.genruntimeconfig.cache

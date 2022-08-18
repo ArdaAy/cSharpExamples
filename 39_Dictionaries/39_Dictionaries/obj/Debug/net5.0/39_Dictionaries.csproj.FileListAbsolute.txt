@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\39_Dictionaries.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\39_Dictionaries.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\39_Dictionaries.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\39_Dictionaries.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\39_Dictionaries.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\ref\39_Dictionaries.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\bin\Debug\net5.0\39_Dictionaries.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\ref\39_Dictionaries.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\39_Dictionaries\39_Dictionaries\obj\Debug\net5.0\39_Dictionaries.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\37_Lists.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\37_Lists.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\37_Lists.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\37_Lists.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\37_Lists.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\ref\37_Lists.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\bin\Debug\net5.0\37_Lists.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\ref\37_Lists.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\37_Lists\37_Lists\obj\Debug\net5.0\37_Lists.genruntimeconfig.cache

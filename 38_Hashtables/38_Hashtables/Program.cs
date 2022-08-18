@@ -7,6 +7,9 @@ namespace _38_Hashtables
     {
         // Key - Value
         // Auto - Car
+
+        static Hashtable sHash = new Hashtable();
+
         static void Main(string[] args)
         {
             Hashtable studentsTable = new Hashtable();
@@ -42,7 +45,41 @@ namespace _38_Hashtables
             {
                 Console.WriteLine("Student ID:{0}, Name:{1}, GPA:{2}", value.Id, value.Name, value.GPA);
             }
+            Console.WriteLine("");
+            Console.WriteLine("");
+            // Challenge:
+            /*
+             * Write a program that will iterate through each element of the students array and insert them into a hashtable.
+             * If a student with the same ID already exists in the hashtable skip it and display the following error:
+             * "Sorry, A student with the same ID already exists."
+             * Hint: Use the method ContainsKey() to check wether a student with the same ID already exist
+             */
 
+
+            addHashObject(new Student(1, "July", 95));
+            addHashObject(new Student(2, "Dolma", 60));
+            addHashObject(new Student(3, "Cengo", 70));
+            addHashObject(new Student(4, "Lucy", 45));
+            //Sorry, A student with the same ID already exists.
+            addHashObject(new Student(4, "Ciguli", 99));
+
+            foreach (Student value in sHash.Values)
+            {
+                Console.WriteLine("Student ID:{0}, Name:{1}, GPA:{2}", value.Id, value.Name, value.GPA);
+            }
+
+        }
+
+        static void addHashObject(Student student)
+        {
+            if (sHash.ContainsKey(student.Id))
+            {
+                Console.WriteLine("Sorry, A student with the same ID already exists. ID: {0}", student.Id);
+            }
+            else
+            {
+                sHash.Add(student.Id, student);
+            }
         }
     }
 

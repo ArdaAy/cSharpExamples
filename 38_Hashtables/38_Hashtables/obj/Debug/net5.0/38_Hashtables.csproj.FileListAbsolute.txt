@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\38_Hashtables.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\38_Hashtables.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\38_Hashtables.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\38_Hashtables.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\38_Hashtables.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\ref\38_Hashtables.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\bin\Debug\net5.0\38_Hashtables.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\ref\38_Hashtables.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\38_Hashtables\38_Hashtables\obj\Debug\net5.0\38_Hashtables.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\40_Stacks.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\40_Stacks.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\40_Stacks.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\40_Stacks.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\40_Stacks.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\ref\40_Stacks.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\bin\Debug\net5.0\40_Stacks.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\ref\40_Stacks.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\40_Stacks\40_Stacks\obj\Debug\net5.0\40_Stacks.genruntimeconfig.cache

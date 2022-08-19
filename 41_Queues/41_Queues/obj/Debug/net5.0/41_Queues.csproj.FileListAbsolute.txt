@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\41_Queues.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\41_Queues.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\41_Queues.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\41_Queues.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\41_Queues.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\ref\41_Queues.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\bin\Debug\net5.0\41_Queues.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\ref\41_Queues.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\41_Queues\41_Queues\obj\Debug\net5.0\41_Queues.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\43_VirtualOverrideDemo.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\43_VirtualOverrideDemo.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\43_VirtualOverrideDemo.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\43_VirtualOverrideDemo.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\43_VirtualOverrideDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\ref\43_VirtualOverrideDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\bin\Debug\net5.0\43_VirtualOverrideDemo.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\ref\43_VirtualOverrideDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\43_VirtualOverrideDemo\43_VirtualOverrideDemo\obj\Debug\net5.0\43_VirtualOverrideDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\44_InheritanceDemo.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\44_InheritanceDemo.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\44_InheritanceDemo.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\44_InheritanceDemo.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\44_InheritanceDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\ref\44_InheritanceDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\bin\Debug\net5.0\44_InheritanceDemo.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\ref\44_InheritanceDemo.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\44_InheritanceDemo\44_InheritanceDemo\obj\Debug\net5.0\44_InheritanceDemo.genruntimeconfig.cache

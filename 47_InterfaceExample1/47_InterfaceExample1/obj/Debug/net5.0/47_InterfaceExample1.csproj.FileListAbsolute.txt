@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\47_InterfaceExample1.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\47_InterfaceExample1.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\47_InterfaceExample1.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\47_InterfaceExample1.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\47_InterfaceExample1.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\ref\47_InterfaceExample1.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\bin\Debug\net5.0\47_InterfaceExample1.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\ref\47_InterfaceExample1.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\47_InterfaceExample1\47_InterfaceExample1\obj\Debug\net5.0\47_InterfaceExample1.genruntimeconfig.cache

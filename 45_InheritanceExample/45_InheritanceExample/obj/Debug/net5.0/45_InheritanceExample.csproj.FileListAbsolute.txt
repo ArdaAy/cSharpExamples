@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\45_InheritanceExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\45_InheritanceExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\45_InheritanceExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\45_InheritanceExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\45_InheritanceExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\ref\45_InheritanceExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\bin\Debug\net5.0\45_InheritanceExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\ref\45_InheritanceExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\45_InheritanceExample\45_InheritanceExample\obj\Debug\net5.0\45_InheritanceExample.genruntimeconfig.cache

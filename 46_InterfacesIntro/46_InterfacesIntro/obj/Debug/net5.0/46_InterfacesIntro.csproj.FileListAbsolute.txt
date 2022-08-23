@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\46_InterfacesIntro.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\46_InterfacesIntro.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\46_InterfacesIntro.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\46_InterfacesIntro.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\46_InterfacesIntro.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\ref\46_InterfacesIntro.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\bin\Debug\net5.0\46_InterfacesIntro.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\ref\46_InterfacesIntro.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\46_InterfacesIntro\46_InterfacesIntro\obj\Debug\net5.0\46_InterfacesIntro.genruntimeconfig.cache

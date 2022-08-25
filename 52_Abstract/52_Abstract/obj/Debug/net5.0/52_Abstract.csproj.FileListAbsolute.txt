@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\52_Abstract.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\52_Abstract.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\52_Abstract.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\52_Abstract.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\52_Abstract.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\ref\52_Abstract.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\bin\Debug\net5.0\52_Abstract.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\ref\52_Abstract.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\52_Abstract\52_Abstract\obj\Debug\net5.0\52_Abstract.genruntimeconfig.cache

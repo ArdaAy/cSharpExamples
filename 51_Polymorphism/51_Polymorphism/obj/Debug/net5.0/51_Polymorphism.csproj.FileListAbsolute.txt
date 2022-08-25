@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\51_Polymorphism.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\51_Polymorphism.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\51_Polymorphism.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\51_Polymorphism.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\51_Polymorphism.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\ref\51_Polymorphism.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\bin\Debug\net5.0\51_Polymorphism.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\ref\51_Polymorphism.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\51_Polymorphism\51_Polymorphism\obj\Debug\net5.0\51_Polymorphism.genruntimeconfig.cache

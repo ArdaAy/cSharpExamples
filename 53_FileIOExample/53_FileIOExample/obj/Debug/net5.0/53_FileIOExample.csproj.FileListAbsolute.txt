@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\53_FileIOExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\53_FileIOExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\53_FileIOExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\53_FileIOExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\53_FileIOExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\ref\53_FileIOExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\bin\Debug\net5.0\53_FileIOExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\ref\53_FileIOExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\53_FileIOExample\53_FileIOExample\obj\Debug\net5.0\53_FileIOExample.genruntimeconfig.cache

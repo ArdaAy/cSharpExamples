@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text.RegularExpressions;
 
 namespace _57_ParsingGame
 {
@@ -47,6 +48,35 @@ namespace _57_ParsingGame
                     file.Write(item +" ");
                 }
             }
+
+            // Game Part 2
+
+            string[] lines2 = File.ReadAllLines(@"C:\Users\ardaa\Desktop\C#\input2.txt");
+
+            string pattern = @"\d{2,3}";
+            Regex regex = new Regex(pattern);
+
+            List<int> intList = new List<int>();
+
+
+            foreach (string line in lines2)
+            {
+
+                MatchCollection matchCollection = regex.Matches(line);
+
+                foreach (Match match in matchCollection)
+                {
+                    intList.Add(int.Parse(match.Value));
+                }
+            }
+
+            foreach (int i in intList)
+            {
+                Console.Write((char)i);
+            }
+
+
         }
+
     }
 }

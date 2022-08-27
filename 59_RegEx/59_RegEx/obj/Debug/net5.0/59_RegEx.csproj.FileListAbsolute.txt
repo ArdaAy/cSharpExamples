@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\59_RegEx.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\59_RegEx.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\59_RegEx.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\59_RegEx.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\59_RegEx.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\ref\59_RegEx.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\bin\Debug\net5.0\59_RegEx.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\ref\59_RegEx.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\59_RegEx\59_RegEx\obj\Debug\net5.0\59_RegEx.genruntimeconfig.cache

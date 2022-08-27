@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\56_MathClass.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\56_MathClass.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\56_MathClass.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\56_MathClass.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\56_MathClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\ref\56_MathClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\bin\Debug\net5.0\56_MathClass.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\ref\56_MathClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\56_MathClass\56_MathClass\obj\Debug\net5.0\56_MathClass.genruntimeconfig.cache

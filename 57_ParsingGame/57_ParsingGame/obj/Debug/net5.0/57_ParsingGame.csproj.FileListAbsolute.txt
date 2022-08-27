@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\57_ParsingGame.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\57_ParsingGame.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\57_ParsingGame.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\57_ParsingGame.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\57_ParsingGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\ref\57_ParsingGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\bin\Debug\net5.0\57_ParsingGame.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\ref\57_ParsingGame.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\57_ParsingGame\57_ParsingGame\obj\Debug\net5.0\57_ParsingGame.genruntimeconfig.cache

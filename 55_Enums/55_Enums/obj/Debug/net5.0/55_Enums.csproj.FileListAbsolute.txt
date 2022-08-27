@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\55_Enums.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\55_Enums.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\55_Enums.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\55_Enums.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\55_Enums.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\ref\55_Enums.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\bin\Debug\net5.0\55_Enums.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\ref\55_Enums.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\55_Enums\55_Enums\obj\Debug\net5.0\55_Enums.genruntimeconfig.cache

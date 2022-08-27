@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\58_RandomClass.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\58_RandomClass.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\58_RandomClass.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\58_RandomClass.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\58_RandomClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\ref\58_RandomClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\bin\Debug\net5.0\58_RandomClass.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\ref\58_RandomClass.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\58_RandomClass\58_RandomClass\obj\Debug\net5.0\58_RandomClass.genruntimeconfig.cache

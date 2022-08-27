@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\62_MainArgs.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\62_MainArgs.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\62_MainArgs.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\62_MainArgs.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\62_MainArgs.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\ref\62_MainArgs.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\bin\Debug\net5.0\62_MainArgs.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\ref\62_MainArgs.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\62_MainArgs\62_MainArgs\obj\Debug\net5.0\62_MainArgs.genruntimeconfig.cache

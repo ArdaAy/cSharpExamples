@@ -73,6 +73,27 @@ namespace _63_DelegatesBasics
             // Anonymous Method Usage
             DisplayPeople("All: ", people, delegate (Person p) { return true; });
 
+            Console.WriteLine();
+            // Lambda
+            // Statement Lambda
+            string searchKeyword = "A";
+            DisplayPeople("age > 20 with search keyword: " + searchKeyword, people, (p) =>
+              {
+                  if(p.Name.Contains(searchKeyword) && p.Age > 20)
+                  {
+                      return true;
+                  }
+                  else
+                  {
+                      return false;
+                  }
+              });
+
+            Console.WriteLine();
+
+            // Expression Lambda
+            // here we are using expression lambda (one line of code)
+            DisplayPeople("Exactly 25:", people, p => p.Age == 25);
 
         }
 

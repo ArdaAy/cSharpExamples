@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\65_LambdaExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\65_LambdaExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\65_LambdaExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\65_LambdaExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\65_LambdaExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\ref\65_LambdaExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\bin\Debug\net5.0\65_LambdaExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\ref\65_LambdaExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\65_LambdaExample\65_LambdaExample\obj\Debug\net5.0\65_LambdaExample.genruntimeconfig.cache

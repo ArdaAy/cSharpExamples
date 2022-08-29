@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "65_LambdaExample/1.0.0": {
+        "runtime": {
+          "65_LambdaExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "65_LambdaExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

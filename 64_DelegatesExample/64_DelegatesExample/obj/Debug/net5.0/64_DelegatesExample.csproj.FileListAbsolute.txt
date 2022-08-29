@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\64_DelegatesExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\64_DelegatesExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\64_DelegatesExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\64_DelegatesExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\64_DelegatesExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\ref\64_DelegatesExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\bin\Debug\net5.0\64_DelegatesExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\ref\64_DelegatesExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\64_DelegatesExample\64_DelegatesExample\obj\Debug\net5.0\64_DelegatesExample.genruntimeconfig.cache

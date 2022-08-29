@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\63_DelegatesBasics.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\63_DelegatesBasics.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\63_DelegatesBasics.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\63_DelegatesBasics.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\63_DelegatesBasics.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\ref\63_DelegatesBasics.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\bin\Debug\net5.0\63_DelegatesBasics.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\ref\63_DelegatesBasics.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\63_DelegatesBasics\63_DelegatesBasics\obj\Debug\net5.0\63_DelegatesBasics.genruntimeconfig.cache

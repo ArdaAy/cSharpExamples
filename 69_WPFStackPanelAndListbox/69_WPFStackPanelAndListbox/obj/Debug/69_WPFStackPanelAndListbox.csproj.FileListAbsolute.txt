@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\bin\Debug\69_WPFStackPanelAndListbox.exe.config
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\bin\Debug\69_WPFStackPanelAndListbox.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\bin\Debug\69_WPFStackPanelAndListbox.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\MainWindow.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\App.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox_MarkupCompile.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox_MarkupCompile.lref
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\MainWindow.baml
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox.g.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\_69_WPFStackPanelAndListbox.Properties.Resources.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox.csproj.GenerateResource.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\69_WPFStackPanelAndListbox\69_WPFStackPanelAndListbox\obj\Debug\69_WPFStackPanelAndListbox.pdb

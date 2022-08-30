@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\66_EventsMulticastDelegates.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\66_EventsMulticastDelegates.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\66_EventsMulticastDelegates.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\66_EventsMulticastDelegates.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\66_EventsMulticastDelegates.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\ref\66_EventsMulticastDelegates.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\bin\Debug\net5.0\66_EventsMulticastDelegates.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\ref\66_EventsMulticastDelegates.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\66_EventsMulticastDelegates\66_EventsMulticastDelegates\obj\Debug\net5.0\66_EventsMulticastDelegates.genruntimeconfig.cache

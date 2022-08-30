@@ -1,0 +1,15 @@
+﻿<Window x:Class="_70_WPFRoutedEvents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_70_WPFRoutedEvents"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Click Me" PreviewMouseRightButtonUp="Button_PreviewMouseRightButtonUp" PreviewMouseLeftButtonDown="Button_PreviewMouseLeftButtonDown" PreviewMouseRightButtonDown="Button_PreviewMouseRightButtonDown"  Width="150" Height="100" />
+        <!-- Tunnelling -> PreviewMouseUp="Button_PreviewMouseUp" -->
+        <!-- Direct     -> Click = "Button_Click" -->
+        <!-- Bubbling   -> MouseUp="Button_MouseUp" -->
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\bin\Debug\70_WPFRoutedEvents.exe.config
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\bin\Debug\70_WPFRoutedEvents.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\bin\Debug\70_WPFRoutedEvents.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\MainWindow.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\App.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents_MarkupCompile.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents_MarkupCompile.lref
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\MainWindow.baml
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents.g.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\_70_WPFRoutedEvents.Properties.Resources.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents.csproj.GenerateResource.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\70_WPFRoutedEvents\70_WPFRoutedEvents\obj\Debug\70_WPFRoutedEvents.pdb

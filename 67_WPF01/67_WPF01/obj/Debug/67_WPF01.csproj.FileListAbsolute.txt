@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\bin\Debug\67_WPF01.exe.config
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\bin\Debug\67_WPF01.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\bin\Debug\67_WPF01.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\MainWindow.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\App.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01_MarkupCompile.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01_MarkupCompile.lref
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\MainWindow.baml
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01.g.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\_67_WPF01.Properties.Resources.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01.csproj.GenerateResource.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\67_WPF01\67_WPF01\obj\Debug\67_WPF01.pdb

@@ -1,0 +1,15 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\bin\Debug\68_WPF02XAMLBasics.exe.config
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\bin\Debug\68_WPF02XAMLBasics.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\bin\Debug\68_WPF02XAMLBasics.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\MainWindow.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\App.g.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics_MarkupCompile.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics_MarkupCompile.lref
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\MainWindow.baml
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics.g.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\_68_WPF02XAMLBasics.Properties.Resources.resources
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics.csproj.GenerateResource.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\68_WPF02XAMLBasics\68_WPF02XAMLBasics\obj\Debug\68_WPF02XAMLBasics.pdb

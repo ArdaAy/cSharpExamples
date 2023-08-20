@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\01_ControlFlowExercises.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\01_ControlFlowExercises.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\01_ControlFlowExercises.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\01_ControlFlowExercises.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\01_ControlFlowExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\ref\01_ControlFlowExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\bin\Debug\net5.0\01_ControlFlowExercises.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\ref\01_ControlFlowExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\01_ControlFlowExercises\01_ControlFlowExercises\obj\Debug\net5.0\01_ControlFlowExercises.genruntimeconfig.cache

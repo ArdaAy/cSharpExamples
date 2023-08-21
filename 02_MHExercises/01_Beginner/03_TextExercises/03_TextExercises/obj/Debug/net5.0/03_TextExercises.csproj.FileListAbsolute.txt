@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\03_TextExercises.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\03_TextExercises.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\03_TextExercises.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\03_TextExercises.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\03_TextExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\ref\03_TextExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\bin\Debug\net5.0\03_TextExercises.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\ref\03_TextExercises.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\01_Beginner\03_TextExercises\03_TextExercises\obj\Debug\net5.0\03_TextExercises.genruntimeconfig.cache

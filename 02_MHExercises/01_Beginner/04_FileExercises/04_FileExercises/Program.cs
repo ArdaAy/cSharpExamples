@@ -31,6 +31,9 @@ namespace _04_FileExercises
             Console.WriteLine("Number of words is {0}", cnt);
         }
 
+        /* Exercise02
+         * Write a program that reads a text file and displays the longest word in the file.
+         */
         static void Exercise02()
         {
             string[] lines = File.ReadAllLines(@"c:\file.txt", Encoding.UTF8);

@@ -65,6 +65,10 @@ namespace _03_TextExercises
             while (true)
             {
                 var input = Console.ReadLine();
+                
+                if (String.IsNullOrWhiteSpace(input))
+                    break;
+
                 var split = input.Split("-");
                 var nList = Array.ConvertAll(split, int.Parse);
 
@@ -73,13 +77,10 @@ namespace _03_TextExercises
                 {
                     for (int j = 0; j < nList.Length; j++)
                     {
-                        if (i != j)
+                        if (i != j && nList[i] == nList[j])
                         {
-                            if (nList[i] == nList[j])
-                            {
-                                dub = true;
-                                break;
-                            }
+                            dub = true;
+                            break;
                         }
                     }
                     if (dub)
@@ -109,7 +110,9 @@ namespace _03_TextExercises
             var intArr = Array.ConvertAll(timeSplit, int.Parse);
 
             var valid = true;
-            if(intArr[0] < 0 || intArr[0] > 23 || intArr[1] < 0 || intArr[1] > 59)
+            if (intArr.Length != 2)
+                valid = false;
+            else if (intArr[0] < 0 || intArr[0] > 23 || intArr[1] < 0 || intArr[1] > 59)
                 valid = false;
             
             if(valid)
@@ -130,6 +133,11 @@ namespace _03_TextExercises
             Console.WriteLine("Enter some words seperated with space");
             var input = Console.ReadLine();
 
+            if (String.IsNullOrWhiteSpace(input))
+            {
+                Console.WriteLine("Error");
+                return;
+            }
 
             var split = input.Split(" ");
             var join = "";

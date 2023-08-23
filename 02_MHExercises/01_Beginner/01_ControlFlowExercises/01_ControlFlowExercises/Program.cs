@@ -8,13 +8,13 @@ namespace _01_ControlFlowExercises
         {
             //Exercise01();
             //Exercise02();
-            //Exercise03();
+            Exercise03();
             //Exercise04();
             //Exercise05();
             //Exercise06();
             //Exercise07();
             //Exercise08();
-            Exercise09();
+            //Exercise09();
         }
 
         /* Exercise01
@@ -52,11 +52,14 @@ namespace _01_ControlFlowExercises
 
             Console.WriteLine("Enter second number");
             int num2 = int.Parse(Console.ReadLine());
-
+            /*
             if (num1>num2)
                 Console.WriteLine("First number ({0}) is bigger than the second number ({1})",num1,num2);
             else
                 Console.WriteLine("Second number ({0}) is bigger than the first number ({1})",num2,num1);
+            */
+            var max = (num1 > num2) ? num1 : num2;
+            Console.WriteLine("Max num is {0}",max);
         }
 
         /* Exercise03
@@ -71,10 +74,22 @@ namespace _01_ControlFlowExercises
             Console.WriteLine("Enter height of the image");
             int height = int.Parse(Console.ReadLine());
 
+            /*
             if(width> height)
                 Console.WriteLine("The image is landscape");
             else
                 Console.WriteLine("The image is portrait");
+            */
+
+            var orientation = (width > height) ? ImageOrientation.Landscape : ImageOrientation.Portrait;
+            Console.WriteLine("Image Orientation is {0}",orientation);
+
+        }
+
+        public enum ImageOrientation
+        {
+            Landscape,
+            Portrait
         }
 
         /* Exercise04
@@ -135,7 +150,7 @@ namespace _01_ControlFlowExercises
             {
                 Console.WriteLine("Enter a number to sum (Enter 'ok' if you are done)");
                 var enteredValue = Console.ReadLine();
-                if (enteredValue == "ok")
+                if (enteredValue.ToLower() == "ok")
                     break;
                 else
                     total += int.Parse(enteredValue);
@@ -152,11 +167,11 @@ namespace _01_ControlFlowExercises
         {
             Console.WriteLine("Enter a number to take factorial value");
             var number = int.Parse(Console.ReadLine());
+            
             var total = 1;
             for (int i = 1; i <= number; i++)
-            {
                 total *= i;
-            }
+            
             Console.WriteLine("Calculated facrotial number is {0}",total);
         }
 

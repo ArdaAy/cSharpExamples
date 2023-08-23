@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\01_ControlFlowExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj": {}
+    "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\01_ControlFlowExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj": {
+    "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\01_ControlFlowExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj",
+        "projectUniqueName": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj",
         "projectName": "02_ArraysAndListsExercises",
-        "projectPath": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\01_ControlFlowExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj",
+        "projectPath": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises.csproj",
         "packagesPath": "C:\\Users\\ardaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\01_ControlFlowExercises\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\obj\\",
+        "outputPath": "C:\\Users\\ardaa\\Documents\\GitHub\\cSharpExamples\\02_MHExercises\\01_Beginner\\02_ArraysAndListsExercises\\02_ArraysAndListsExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ardaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

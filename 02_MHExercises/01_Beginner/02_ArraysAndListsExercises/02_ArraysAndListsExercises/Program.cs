@@ -10,8 +10,8 @@ namespace _02_ArraysAndListsExercises
             //Exercise01();
             //Exercise02();
             //Exercise03();
-            //Exercise04();
-            Exercise05();
+            Exercise04();
+            //Exercise05();
         }
 
         /* Exercise01
@@ -31,7 +31,11 @@ namespace _02_ArraysAndListsExercises
             while (true)
             {
                 var input = Console.ReadLine();
+                /*
                 if (input != "")
+                    nList.Add(input);
+                */
+                if(!String.IsNullOrWhiteSpace(input))
                     nList.Add(input);
                 else
                     break;
@@ -64,6 +68,13 @@ namespace _02_ArraysAndListsExercises
                 revName += item;
             }
 
+            /*
+            var array = new char[name.Length];
+            for (var i = name.Length; i > 0; i--)
+                array[name.Length - i] = name[i - 1];
+
+            var reversed = new string(array);
+            */
             Console.WriteLine("The reversed name is {0}",revName);
         }
 
@@ -79,6 +90,14 @@ namespace _02_ArraysAndListsExercises
             while (list.Count < 5)
             {
                 var input = int.Parse(Console.ReadLine());
+
+                if (list.Contains(input))
+                {
+                    Console.WriteLine("The number {0} is existing in the list. Please enter a unique number", input);
+                    continue;
+                }
+                list.Add(input);
+                /*
                 var isThere = false;
                 foreach (var item in list)
                 {
@@ -89,6 +108,7 @@ namespace _02_ArraysAndListsExercises
                     list.Add(input);
                 else
                     Console.WriteLine("The number {0} is existing in the list. Please enter a unique number",input);
+                */
             }
             var nList = list.ToArray();
 
@@ -113,14 +133,18 @@ namespace _02_ArraysAndListsExercises
             while (true)
             {
                 var input = Console.ReadLine();
-                if (input == "Quit" || input == "quit" || input == "")
+                if (input.ToLower() == "quit")
                     break;
-                nList.Add(int.Parse(input));
+                if(!String.IsNullOrEmpty(input))
+                    nList.Add(int.Parse(input));
             }
 
             var nUniqueList = new List<int>();
             foreach (var item1 in nList)
             {
+                if(!nUniqueList.Contains(item1))
+                    nUniqueList.Add(item1);
+                /*
                 var isThere = false;
                 foreach (var item2 in nUniqueList)
                 {
@@ -129,6 +153,7 @@ namespace _02_ArraysAndListsExercises
                 }
                 if (!isThere)
                     nUniqueList.Add(item1);
+                */
             }
 
             Console.WriteLine("The unique list is");

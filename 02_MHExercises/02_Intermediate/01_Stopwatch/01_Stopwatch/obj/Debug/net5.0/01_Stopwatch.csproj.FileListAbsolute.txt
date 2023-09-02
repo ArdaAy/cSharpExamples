@@ -1,0 +1,16 @@
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\01_Stopwatch.exe
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\01_Stopwatch.deps.json
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\01_Stopwatch.runtimeconfig.json
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\01_Stopwatch.runtimeconfig.dev.json
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\01_Stopwatch.dll
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\ref\01_Stopwatch.dll
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\bin\Debug\net5.0\01_Stopwatch.pdb
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.csproj.AssemblyReference.cache
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.AssemblyInfoInputs.cache
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.AssemblyInfo.cs
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.dll
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\ref\01_Stopwatch.dll
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.pdb
+C:\Users\ardaa\source\repos\01_Stopwatch\01_Stopwatch\obj\Debug\net5.0\01_Stopwatch.genruntimeconfig.cache

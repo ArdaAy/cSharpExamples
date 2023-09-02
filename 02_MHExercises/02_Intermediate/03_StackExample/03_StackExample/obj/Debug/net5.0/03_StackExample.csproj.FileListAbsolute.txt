@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\03_StackExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\03_StackExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\03_StackExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\03_StackExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\03_StackExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\ref\03_StackExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\bin\Debug\net5.0\03_StackExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\ref\03_StackExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\03_StackExample\03_StackExample\obj\Debug\net5.0\03_StackExample.genruntimeconfig.cache

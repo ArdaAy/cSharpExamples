@@ -19,6 +19,7 @@ namespace _03_StackExample
         {
             if(_stack.Count == 0)
             {
+                //throw new InvalidOperationException();
                 Console.WriteLine("Stack is empty");
                 return;
             }
@@ -36,6 +37,9 @@ namespace _03_StackExample
 
         public void Push(object obj)
         {
+            if (obj == null)
+                throw new InvalidOperationException();
+
             _stack.Add(obj);
         }
 

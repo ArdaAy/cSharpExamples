@@ -1,0 +1,16 @@
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\04_DbConnectionSandboxExample.exe
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\04_DbConnectionSandboxExample.deps.json
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\04_DbConnectionSandboxExample.runtimeconfig.json
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\04_DbConnectionSandboxExample.runtimeconfig.dev.json
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\04_DbConnectionSandboxExample.dll
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\ref\04_DbConnectionSandboxExample.dll
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\bin\Debug\net5.0\04_DbConnectionSandboxExample.pdb
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.AssemblyInfo.cs
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.dll
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\ref\04_DbConnectionSandboxExample.dll
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.pdb
+C:\Users\ardaa\source\repos\04_DbConnectionSandboxExample\04_DbConnectionSandboxExample\obj\Debug\net5.0\04_DbConnectionSandboxExample.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.csproj.AssemblyReference.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.AssemblyInfoInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.AssemblyInfo.cs
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\05_WorkflowEngineExample.exe
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\05_WorkflowEngineExample.deps.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\05_WorkflowEngineExample.runtimeconfig.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\05_WorkflowEngineExample.runtimeconfig.dev.json
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\05_WorkflowEngineExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\ref\05_WorkflowEngineExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\bin\Debug\net5.0\05_WorkflowEngineExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\ref\05_WorkflowEngineExample.dll
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.pdb
+C:\Users\ardaa\Documents\GitHub\cSharpExamples\02_MHExercises\02_Intermediate\05_WorkflowEngineExample\05_WorkflowEngineExample\obj\Debug\net5.0\05_WorkflowEngineExample.genruntimeconfig.cache
